@@ -1,0 +1,14 @@
+layout_spectrum: 0.8752994970418513
+typography_spectrum: 0.6887170204427093
+color:
+  brandStrength: 0.5999748243484646
+  lightness: 0.4741706808563322
+  saturation: 0.39372552814893425
+  rhythmicContrast: 0.9477528491988778
+  brandColors:
+    - '#E3E5E7'
+    - '#000000'
+    - '#00ABE9'
+    - '#003D3A'
+    - '#8EAAAE'
+name: Gin Tonic
