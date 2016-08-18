@@ -1,4 +1,3 @@
-layout_spectrum: 0.8752994970418513
 typography_spectrum: 0.6887170204427093
 color:
   brandStrength: 0.5999748243484646
@@ -11,4 +10,11 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.8752994970418513
 name: Gin Tonic
+navigation:
+  - name: 2016 heralds beginning of the "megatall" skyscraper era
+    id: 3e068a36-a104-47b8-a7dc-5e019f53818f
+    type: content
+title: Gin Tonic
+description: Photography & Film
